@@ -30,7 +30,7 @@ function App() {
 
 
         {/*classe dinamica*/}
-        <p className={title ? "red-title" : "yellow-title"}>Essa é classe dinâmica e mais usada nos projetos atuais.</p> {/*O title ? é a mesma coisa de title === true , é escrito desse jeito pq se não ia ser redundancia...essa classe dinamica serve para dependendo do valor de uma variavel uma classe especifica é ativa, nao poluindo o código..obs: estão em index.css..ela vai ser usada no primeiro projeto*/}
+        <p className={title ? "red-title" : "yellow-title"}>Essa é classe dinâmica e mais usada nos projetos atuais.</p> {/*O title ? é a mesma coisa de title === true , é escrito desse jeito porque se não ia ser redundancia...essa classe dinâmica serve para dependendo do valor de uma variavel uma classe especifica é ativa, nao poluindo o código..obs: estão em index.css..ela vai ser usada no primeiro projeto*/}
 
         {/*css modulos*/}
         <MyTitle/>   {/*esse que é o melhor e mais utilizado...aqui chama o componente */}
