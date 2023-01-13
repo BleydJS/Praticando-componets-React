@@ -1,0 +1,26 @@
+body {
+
+  margin: 0;
+  padding: 0;
+  font-family: bebas neue;
+  padding-bottom: 500px;
+}
+
+h1 {
+  color: red;
+}
+
+
+.red-title {
+
+  color: brown;
+  background-color: aquamarine;
+
+}
+
+.yellow-title {
+
+color: yellow;
+background-color: bisque;
+
+}
