@@ -11,8 +11,8 @@ function App() {
   return (
     <div className="App">
         {/*Esse é global*/}    {/*explicação no componente*/}
-      <h1>Aula de css</h1>
-
+      <h1>Aula de css </h1>
+      <h2>teste</h2>
 
       {/*Esse é do componente*/}
         <MyComponent />
