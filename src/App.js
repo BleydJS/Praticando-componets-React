@@ -12,7 +12,7 @@ function App() {
     <div className="App">
         {/*Esse é global*/}    {/*explicação no componente*/}
       <h1>Aula de css </h1>
-      <h2>teste</h2>
+      <h2>teste de branch</h2>
 
       {/*Esse é do componente*/}
         <MyComponent />
